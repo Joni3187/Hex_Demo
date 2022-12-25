@@ -1,0 +1,118 @@
+/* 
+====================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  < STYLE SHEET >   < STYLE SHEET >   < STYLE SHEET >   < STYLE SHEET > 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================================================================
+*/
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    height: 5rem;
+    background-color: #212121;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    background-color: #F8F9FA;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+main h2 {
+    text-align: center;
+}
+
+main h4 {
+   padding-left: 3rem; 
+}
+
+.block {
+    margin: 3rem 2rem;
+    border: 2px #000 solid;
+    width: 18rem;
+    /* width: 20rem; */
+    padding: 1rem;
+    background-color: #d5dbdb;
+    border-radius: 25px;
+}
+
+.box {
+    height: 2rem; 
+    width: 2rem;
+    margin-left: 2rem;
+}
+
+.box:hover {
+    border: 2px solid #f7dc6f;
+}
+
+
+
+/* 
+============
+~~~~~~~~~~~~
+    FOOTER
+============
+~~~~~~~~~~~~
+ */
+
+footer {
+    height: 8rem;
+    background-color: #212429;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a {
+    font-size: 35px;
+    color: #fff;
+}
+
+
+/* 
+====================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  < BOX SHADOW TEMPLATES >   < BOX SHADOW TEMPLATES >    < BOX SHADOW TEMPLATES >
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================================================================
+ */
+
+ 
+/* 
+=============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    <<< TURQUOISE >>>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============================
+*/
+
+.box-1 { background-color: #1abc9c; }
+.box-2 { background-color: #e8f8f5; }
+.box-3 { background-color: #d1f2eb; }
+.box-4 { background-color: #a3e4d7; }
+.box-5 { background-color: #76d7c4; }
+.box-6 { background-color: #48c9b0; }
+.box-7 { background-color: #1abc9c; }
+.box-8 { background-color: #17a589; }
+.box-9 { background-color: #148f77; }
+.box-10 { background-color: #117864; }
+.box-11 { background-color: #0e6251; }
+
+/* 
+================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    <<< END OF STYLE SHEET >>>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
+*/
